@@ -1,2 +1,2 @@
-# splelk
+# Splastic
 Splunk Elasticsearch App
